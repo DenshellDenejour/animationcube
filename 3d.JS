@@ -1,1 +1,1 @@
-Alert("That's My Cube😡😁😚")
+Alert("That's My Cube😡😁😚");
